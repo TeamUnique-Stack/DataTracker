@@ -1,0 +1,173 @@
+{
+  "LOGIN": {
+    "SIGN": "Sign In",
+    "OR": "or",
+    "USERNAME": "Username",
+    "PASSWORD": "Password",
+    "REMEMBER": "Remember Username + Password"
+  },
+  "INVOICE_APPROVAL": {
+    "OUTSTANDING": "Outstanding",
+    "HISTORY": "History",
+    "STATUS": "Status",
+    "FILTERS": "Filters",
+    "SEARCH": "Search",
+    "DISTRIBUTE_INVOICES": "Distribute Invoices",
+    "INVOICES_SELECTED": "invoices selected",
+    "APPROVE_ROUTE": "Approve + Route",
+    "PLACE_ON_HOLD": "Place On Hold",
+    "DECLINE": "Decline"
+  },
+  "MENU_SUB_MENU": {
+    "QUEUE": "Queue",
+    "REPORTS": "Reports",
+    "SETTINGS": "Settings",
+    "SALES_QUEUE": "Sales Queue",
+    "BILLING_QUEUE": "Billing Queue",
+    "DISTRIBUTION_QUEUE": "Distribution Queue"
+  },
+  "QUICK_ROUTE_MODAL": {
+    "ROUTE": "Route",
+    "HEADING": "Enter a comment and select the department you want to route this invoice to.",
+    "COMMENT": "Comment (Max of 2000 characters)",
+    "ROUTE_TO": "Route to"
+  },
+  "QUICK_DECLINE_MODAL": {
+    "HEADING": "Enter a reason for declining this invoice and choose who to route it to"
+  },
+  "PLACE_ON_HOLD":{
+    "PLACE_ON_HOLD":"place",
+    "HEADING":"Enter a reason for placing this invoice on hold below.",
+    "ROUTE_TO": "Route to"
+  },
+  "QUICK_APPROVE_MODAL": {
+    "APPROVE": "Approve",
+    "HEADING": "Choose if this invoice will be filed, moved to billing for processing and distribution to the customer, or routed to a department.",
+    "OPTIONAL": "Comment (Optional)",
+    "FILE": "File",
+    "DISTRIBUTE": "Distribute",
+    "CHECKBOX": "Check here to print a copy of invoice"
+  },
+  "BUTTONS": {
+    "CANCEL": "Cancel",
+    "REVIEW_INVOICE": "Review Invoice",
+    "CLEAR": "Clear",
+    "DONE": "Done",
+    "ROUTE_INVOICE": "Route Invoice",
+    "CSV": "CSV",
+    "PDF": "PDF",
+    "ARCHIVE": "Archive",
+    "VOID": "Void",
+    "CLICK_TO_RELOAD": "Click to Reload"
+  },
+  "VALIDATIONS": {
+    "USERNAME_REQUIRED": "Please enter the Username",
+    "PASSWORD_REQUIRED": "Please enter the password",
+    "INVALID_LOGIN": "Invalid username or password",
+    "DATE_RANGE_MSG": "Date range does not match",
+    "COMMENTS_REQUIRED": "Please enter the comments",
+    "MAXLENGTH_EXCEEDED": "Comments should be less than or equal to 2000 characters"
+  },
+  "GENERAL": {
+    "INVOICE_APPROVAL_PORTAL": "Invoice Approval Portal",
+    "SHOW": "Show",
+    "ALL": "All",
+    "QUICK_ROUTE": "quick-route",
+    "QUICK_APPROVE": "quick-approve",
+    "QUICK_DECLINE": "quick-decline",
+    "PLACE_ON_HOLD": "place_on_hold",
+    "APPROVAL": "approval",
+    "DISTRIBUTION": "distibution",
+    "FILE": "file",
+    "ERROR": "error",
+    "NO_TABLE_DATA": "You’re all caught up! There  aren’t any outstanding invoices for ",
+    "TABLE_ERROR": "Oops, something went wrong."
+  },
+  "QUEUE": {
+    "QUEUE_LABEL": "Queue:",
+    "SELECT_QUEUE": "Select Queue"
+  },
+  "OUTSTANDING_ORDER": {
+    "OUTSTANDING_ORDER_TOTAE": "Outstanding Order Total",
+    "OUTSTANDING_ORDER_TOTAE_AMOUNT": "$8,774.95"
+  },
+  "TABLE_LABLE": {
+    "TABLE_MATCH": "No Match Found"
+  },
+  "SELECT": {
+    "OPTION_ONE": "5 ROWS",
+    "OPTION_TWO": "10 ROWS",
+    "OPTION_THREE": "20 ROWS",
+    "OPTION_FOUR": "30 ROWS"
+  },
+  "SNACKBAR": {
+    "PRINT": "Print",
+    "EMAIL": "Email",
+    "INVOICES_SELECTED": "invoice(s) selected"
+  },
+  "DATEPICKER": {
+    "DATE_RANGE": "Date Range",
+    "START_DATE": "Start Date",
+    "END_DATE": "End Date",
+    "CUSTOM_RANGE": "Custom Range",
+    "PLACEHOLDER": "Select Date Range"
+  },
+  "MESSAGES": {
+    "OPEN": "Open",
+    "APPROVED": "Approved",
+    "ON_HOLD": "On Hold",
+    "DECLINED": "Declined",
+    "TRY_AGAIN": "Please try again",
+    "INVOICES_ROUTED": "Invoice(s) Routed Successfully",
+    "INVOICES_FILED": "Invoice(s) Filed Successfully",
+    "INVOICES_DISTRIBUTED": "Invoice(s) Distributed Successfully",
+    "INVOICES_APPROVED": "Invoice(s) Approved Successfully",
+    "INVOICES_ONHOLD": "Invoice(s) On-Hold Successfully",
+    "INVOICES_DECLINED": "Invoice(s) Dpproved Successfully"
+  },
+  "PDF": {
+    "APPROVAL_QUEUE": "Approval Queue >",
+    "INVOICE_PREVIEW": "Invoice Preview",
+    "DOCSTAR": "DocStar",
+    "BIDPRO": "BidPro",
+    "RFMS": "RFMS Attachments",
+    "RFMS_NOTES": "RFMS Notes"
+  },
+  "PDF_INVOICE": {
+    "INVOICE_ID": "Invoice #:",
+    "AGE": "Age:",
+    "GP": "Gp:",
+    "INVOICE_DATE": "Invoice Date:",
+    "MNGMT": "Mngmt.:",
+    "TOTAL": "Total:",
+    "STATUS": "Status:",
+    "PROPERTY": "Property:",
+    "CUSTOMER_TYPE": "Customer Type:",
+    "UNIT": "Unit #:",
+    "MATERIAL": "Material:",
+    "SALES_PERSON": "Sales Person:"
+  },
+  "TABS_HEADING": {
+    "OUTSTANDING": "Outstanding (8)",
+    "HISTORY": "History (0) "
+  },
+  "PDF_INVOICE_BOTTOM_SHEET_TEXT": {
+    "ACTIVITY": "Activity",
+    "COMMENTS": "Comments (1)",
+    "HISTORY": "History (3)",
+    "EDIT_BTN":"Edit",
+    "DELETE_BTN":"Delete",
+    "POST_BTN":"Post"
+  },
+  "ALERTS": {
+    "ALERTS": "Alerts",
+    "CLICK_TO_REVIEW": "Click here to review",
+    "NOALERTS": "No alerts available",
+    "TRYAGAIN": "Click here to reload",
+    "READ": "Read",
+    "DELETED": "Deleted",
+    "DELETE_ALERT_MSG": "Alert has been deleted successfully",
+    "READ_ALERT": "You have read the alert",
+    "CLOSE": "Close"
+  }
+}

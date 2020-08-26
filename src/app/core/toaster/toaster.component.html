@@ -1,0 +1,14 @@
+
+<div class="toast {{data.type}}"
+     [@fadeAnimation]="{value: animationState, params:
+        { fadeIn: 300, fadeOut: 2500 }}"
+     (@fadeAnimation.done)="onFadeFinished($event)">
+   <div class="row">
+      <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 pdZero">
+         <div><img src="assets/images/check_toast.png"/></div>
+      </div>
+      <div class="col-lg-11 col-md-11 col-sm-11 col-xs-11 lineHeight pdZero">         
+         <div>{{ data.text }}</div>
+      </div>
+   </div>
+</div>

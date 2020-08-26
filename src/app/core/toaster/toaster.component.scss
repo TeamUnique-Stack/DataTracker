@@ -1,0 +1,41 @@
+.toast {
+  position: absolute;
+  top: 0;
+  left: 40%;
+  margin-bottom: 20px;
+  padding: 6px 10px; 
+  min-width: 350px;
+  max-width: 0px;
+  background: #fff;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #dddddd #d6d6d6 #cfcfcf;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.11);
+  margin:0 auto;
+}
+
+.success{
+  color:#dddddd;
+  border-radius: 4px;
+  background-color: #35b2fc;
+  font-family: 'Heebo';
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+.error{
+  background: red;
+  color:#dddddd;
+}
+
+.lineHeight{
+  line-height: 1.8;
+}
+
+

@@ -1,0 +1,38 @@
+.headerContainer {
+    background-color: #39393b;
+    height: 64px;
+    .margin0 {
+        margin-right: 0;
+        margin-left: 0;
+        .realfloorsLogo {
+            padding: 0;
+        }
+    }
+    .navbarImage {
+        width: 88px;
+        height: 64px;
+        margin: 0px;
+        padding: 0px;
+    }
+    .userIcons {
+        text-align: right;
+
+        .bellIcon {
+            width: 24px;
+            height: 24px;
+            object-fit: contain;
+            margin-right: 15px;
+            margin-top: 18px;
+        }
+    }
+    .dropDownAlignment{
+        margin-bottom: 0;
+        padding: 0;
+        cursor: pointer;
+        li{
+            list-style: none;
+        }
+    }
+}
+
+

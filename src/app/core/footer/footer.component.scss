@@ -1,0 +1,25 @@
+@import 'styles/variables.scss';
+.footerContainer{
+    background-color: black;
+    box-shadow: inset 0 1px 3px 0 rgba(74, 74, 74, 0.5);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+    bottom: 0;
+    .footerText{
+        color:white;
+        opacity: 0.5;
+        // font-family: $heebo;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        text-align: center;
+        // color: $white;
+    }
+}
